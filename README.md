@@ -1,2 +1,2 @@
 # QUIZ.JS
-Created with CodeSandbox
+A very Simple quiz game in JavaScript
